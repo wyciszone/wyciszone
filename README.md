@@ -1,4 +1,4 @@
-### wyciszone / miko :poland: 🏳️‍🌈
+### 🥟 wyciszone / miko :poland: 🏳️‍🌈
 
 pronouns : they/them
 

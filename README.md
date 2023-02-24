@@ -1,7 +1,7 @@
 ### 🥟 wyciszone / miko :poland: 🏳️‍🌈
 
-pronouns : they/them
+<b>pronouns<b> : they/them
 
-languages: english; polish; italian
+<b>languages<b> : english; polish; italian
 
-currently : studying on agh in cracow, yearning for finding true love, compulsively watching cat vids, learning webdev
+<b>currently<b> : studying in cracow, yearning for true love, compulsively watching cat vids, learning webdev

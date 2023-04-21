@@ -4,4 +4,4 @@
 
 <b>languages<b> : english; polish; italian
 
-<b>currently<b> : studying in cracow, yearning for true love, compulsively watching cat vids, learning webdev
+<b>currently<b> : studying in cracow, yearning for true love, compulsively watching cat vids, learning webdev&python
